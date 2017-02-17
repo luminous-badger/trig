@@ -1,0 +1,7 @@
+dark_green                = (0,100,0)
+green                     = (0,128,0)
+forest_green              = (34,139,34)
+lime                      = (0,255,0)
+lime_green                = (50,205,50)
+pale_green                = (152,251,152)
+light_green               = (144,238,144)
